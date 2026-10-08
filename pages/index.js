@@ -1,5 +1,5 @@
-function home(){
-    return <h1>Obrigada pelo presente Pai</h1>
+function home() {
+  return <h1>Obrigada pelo presente Pai</h1>;
 }
 
-export default home; 
+export default home;
